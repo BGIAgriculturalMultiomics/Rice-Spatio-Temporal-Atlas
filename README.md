@@ -1,18 +1,15 @@
-# 🌾 Rice Spatio-Temporal Atlas (RSTA)
+# 🌾 Rice Spatio-Temporal Atlas (RSTA) Overview
 
 **RSTA** is a **multiscale, spatiotemporal integrated research initiative** that spans the entire rice life cycle — *from seed to seed*. It provides a comprehensive, publicly accessible resource for rice functional genomics and breeding.
-
-## 📊 Key Data Resources
-
-The RSTA curates and openly shares five core types of data:
+The RSTA curates and openly shares five core types of resources:
 
 1. **40,155 annotated rice genes**  
 2. **788,030 high-quality single nuclei** profiled across **47 distinct tissues**  
 3. **Spatial gene expression patterns** mapped in **43 tissue samples**  
 4. **Marker genes** defining **202 cell types**  
-5. **Analytical and visualization tools** to explore the atlas interactively  
-
-All data are **freely accessible** via a user-friendly web interface, enabling broad scientific use without restriction.
+5. **Analytical tools**
+   
+All resources are **freely accessible** via a user-friendly web interface, enabling broad scientific use without restriction.
 
 > 💡 **Mission**: To accelerate functional genomics research and enable **genomic-designed breeding** in rice.
 
